@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="texto_grados"> 23° </string>
+    <string name="texto_ciudad"> Ciudad de Guayaquil </string>
+    <string name="texto_estatus"> Nublado </string>
+
+    <string name="texto_bienvenida">
+        Bienvenido a la App del Clima, para poder visualizar el clima de una ciudad
+        selecciona la opción de abajo.
+    </string>
+    <string name="texto_boton"> Clima de la Ciudad de Guayaquil </string>
+    <string name="texto_boton2"> Clima de la Ciudad de Estambul </string>
+</resources>
